@@ -116,6 +116,7 @@ const observer = new IntersectionObserver(
     }),
   { threshold: 0.2 },
 );
+
 document
   .querySelectorAll(".reveal")
   .forEach((element) => observer.observe(element));
