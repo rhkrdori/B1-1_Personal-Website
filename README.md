@@ -31,4 +31,4 @@ python -m http.server 8080
 
 ## 배포
 
-GitHub Pages 배포 URL: 배포 후 이곳에 URL을 추가하세요.
+GitHub Pages 배포 URL: https://rhkrdori.github.io/B1-1_Personal-Website/
